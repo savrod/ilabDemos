@@ -126,6 +126,6 @@ document_outline: |
   Details on ice hockey slang
 document:
   repo: https://github.com/savrod/ilabDemos
-  commit: a454cdb34c37968fc02f15faf1441f7e2eec44e6
+  commit: 29215b8825a90e4f95dd6c0d504e92e520c53074
   patterns:
-    - instructlab.md
+    - hockey-slang.md
