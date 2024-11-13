@@ -1,6 +1,6 @@
 ---
 version: 3
-created_by: savio_rodrigues
+created_by: savrod
 domain: sports
 seed_examples:
   - context: |
@@ -125,7 +125,7 @@ seed_examples:
 document_outline: |
   Details on ice hockey slang
 document:
-  repo: https://github.com/rhai-code/instructlab_knowledge
+  repo: https://github.com/savrod/ilabDemos
   commit: a454cdb34c37968fc02f15faf1441f7e2eec44e6
   patterns:
     - instructlab.md
