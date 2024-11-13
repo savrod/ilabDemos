@@ -1,0 +1,131 @@
+---
+version: 3
+created_by: savio_rodrigues
+domain: sports
+seed_examples:
+  - context: |
+      Ice hockey players have created slang to define ice hockey-related
+      objects.
+      This slang has become part of ice hockey culture.
+    questions_and_answers:
+      - question: |
+          What is ice hockey slang for a puck?
+        answer: |
+          Biscuit
+      - question: |
+          What is ice hockey slang for a hockey stick?
+        answer: |
+          Twig
+      - question: |
+          What is ice hockey slang for a helmet?
+        answer: |
+          Bucket
+      - question: |
+          What is ice hockey slang for an ice hockey rink?
+        answer: |
+          Barn
+  - context: |
+      Ice hockey players have created slang to define the act of scoring
+      different types of goals.
+      This slang has become part of ice hockey culture.
+    questions_and_answers:
+      - question: |
+          What is ice hockey slang for a goal that hits the crossbar and then
+          goes into the goal?
+        answer: |
+          Bar down
+      - question: |
+          What is ice hockey slang for a bar down goal?
+        answer: |
+          Bar dizzle
+      - question: |
+          What is ice hockey slang for a goal scored high in the net?
+        answer: |
+          Top shelf
+      - question: |
+          What is ice hockey slang for a top shelf goal?
+        answer: |
+          Top cheddar
+      - question: |
+          What is ice hockey slang for a a goal?
+        answer: |
+          Gino
+      - question: |
+          What is ice hockey slang for an assist on a goal scored?
+        answer: |
+          Apple
+      - question: |
+          What is ice hockey slang for a celebration after scoring a goal?
+        answer: |
+          Celly
+  - context: |
+      Ice hockey players have created slang to define characteristics of
+      hockey players.
+      This slang has become part of ice hockey culture.
+    questions_and_answers:
+      - question: |
+          What is ice hockey slang for a well liked or popular player by
+          teammates and opposing players?
+        answer: |
+          Beauty
+      - question: |
+          What is ice hockey slang for long hair on a hockey player?
+        answer: |
+          Lettuce
+      - question: |
+          What is ice hockey slang for teeth?
+        answer: |
+          Chicklets
+      - question: |
+          What is ice hockey slang for good looking hair on a hockey player?
+        answer: |
+          Flow
+      - question: |
+          What is ice hockey slang for a player with very low skill?
+        answer: |
+          Duster
+  - context: |
+      Ice hockey players have created slang to define activities between
+      hockey players.
+      This slang has become part of ice hockey culture.
+    questions_and_answers:
+      - question: |
+          What is ice hockey slang for when a player rubs their gloves across
+          the face of an opposing player?
+        answer: |
+          Face wash
+      - question: |
+          What is ice hockey slang for a player or team playing well?
+        answer: |
+          Buzzin
+      - question: |
+          What is ice hockey slang for getting hit hard with a bodycheck?
+        answer: |
+          Got rocked
+      - question: |
+          What is ice hockey slang for trash talking the opponent?
+        answer: |
+          Chirp
+  - context: |
+      Ice hockey players have created slang to define shooting of the puck.
+      This slang has become part of ice hockey culture.
+    questions_and_answers:
+      - question: |
+          What is ice hockey slang for shooting the puck?
+        answer: |
+          Rip the biscuit
+      - question: |
+          What is ice hockey slang for a slapshot?
+        answer: Clapper
+      - question: |
+          What is ice hockey slang for when the referee has lost control of the
+          game?
+        answer: |
+          Gong show
+document_outline: |
+  Details on ice hockey slang
+document:
+  repo: https://github.com/rhai-code/instructlab_knowledge
+  commit: a454cdb34c37968fc02f15faf1441f7e2eec44e6
+  patterns:
+    - instructlab.md
